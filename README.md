@@ -57,5 +57,4 @@ members = [
    { name = "EAST" },
    { name = "WEST" },
 ]
-
 ```

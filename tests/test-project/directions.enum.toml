@@ -1,0 +1,13 @@
+name = "Direction"
+type = "uint8_t"
+
+[includes]
+system = ["stdint"]
+
+[enum]
+members = [
+   { name = "NORTH", value = 0, desc = "That's where Santa Claus lives." },
+   { name = "SOUTH" },
+   { name = "EAST" },
+   { name = "WEST" },
+]
